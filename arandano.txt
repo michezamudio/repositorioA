@@ -1,0 +1,3 @@
+el arandano es una fruta violeta tica rica rica bash: arandano,txt: command not found
+bash: arandano.txt: command not found
+
